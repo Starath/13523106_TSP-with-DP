@@ -58,6 +58,8 @@ Rust: [rustup](https://rustup.rs/).
     ```bash
     cargo run
     ```
+3. **Masukkan Input**
+4. **Output Keluar**
 
 ### Input Graf
 
